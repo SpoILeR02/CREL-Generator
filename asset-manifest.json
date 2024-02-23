@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CREL-Generator/static/css/main.d591071b.css",
-    "main.js": "/CREL-Generator/static/js/main.8ee479f0.js",
+    "main.js": "/CREL-Generator/static/js/main.4ce897dc.js",
     "static/js/787.b5dcb516.chunk.js": "/CREL-Generator/static/js/787.b5dcb516.chunk.js",
     "index.html": "/CREL-Generator/index.html",
     "main.d591071b.css.map": "/CREL-Generator/static/css/main.d591071b.css.map",
-    "main.8ee479f0.js.map": "/CREL-Generator/static/js/main.8ee479f0.js.map",
+    "main.4ce897dc.js.map": "/CREL-Generator/static/js/main.4ce897dc.js.map",
     "787.b5dcb516.chunk.js.map": "/CREL-Generator/static/js/787.b5dcb516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d591071b.css",
-    "static/js/main.8ee479f0.js"
+    "static/js/main.4ce897dc.js"
   ]
 }
