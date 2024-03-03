@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AutoGen-CREL-V2/static/css/main.d591071b.css",
-    "main.js": "/AutoGen-CREL-V2/static/js/main.bc1373eb.js",
-    "static/js/787.b5dcb516.chunk.js": "/AutoGen-CREL-V2/static/js/787.b5dcb516.chunk.js",
-    "index.html": "/AutoGen-CREL-V2/index.html",
-    "main.d591071b.css.map": "/AutoGen-CREL-V2/static/css/main.d591071b.css.map",
-    "main.bc1373eb.js.map": "/AutoGen-CREL-V2/static/js/main.bc1373eb.js.map",
-    "787.b5dcb516.chunk.js.map": "/AutoGen-CREL-V2/static/js/787.b5dcb516.chunk.js.map"
+    "main.css": "/CREL-Generator/static/css/main.d591071b.css",
+    "main.js": "/CREL-Generator/static/js/main.9b941abf.js",
+    "static/js/787.b5dcb516.chunk.js": "/CREL-Generator/static/js/787.b5dcb516.chunk.js",
+    "index.html": "/CREL-Generator/index.html",
+    "main.d591071b.css.map": "/CREL-Generator/static/css/main.d591071b.css.map",
+    "main.9b941abf.js.map": "/CREL-Generator/static/js/main.9b941abf.js.map",
+    "787.b5dcb516.chunk.js.map": "/CREL-Generator/static/js/787.b5dcb516.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d591071b.css",
-    "static/js/main.bc1373eb.js"
+    "static/js/main.9b941abf.js"
   ]
 }
